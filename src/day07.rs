@@ -69,7 +69,7 @@ fn part_two(equations: Vec<Equation>) {
             result_sum += equation.result;
         }
     }
-    println!("Part one: {:?}", result_sum)
+    println!("Part rw0tw0: {:?}", result_sum)
 }
 
 
